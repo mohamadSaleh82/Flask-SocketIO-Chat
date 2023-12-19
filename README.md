@@ -5,9 +5,11 @@
 
 
 # Screenshots 📸
-## user👨‍💻
-![Screenshot 1](https://raw.githubusercontent.com/mohamadsaleh82/Flask-SocketIO-Chat/master/Demo/1.jpg)
+## Login
 ![Screenshot 2](https://raw.githubusercontent.com/mohamadsaleh82/Flask-SocketIO-Chat/master/Demo/2.jpg)
+## Chat
+![Screenshot 1](https://raw.githubusercontent.com/mohamadsaleh82/Flask-SocketIO-Chat/master/Demo/1.jpg)
+
 
 
 # Getting Started 🚀
@@ -24,9 +26,8 @@
    - For Mac and Linux: `source venv/bin/activate`
    - For Windows: `venv\scripts\activate`
 6. Install the application requirements by running: `pip install -r requirements.txt`
-7. Migrate the database by executing: `python manage.py migrate`
-8. Start the server: `python manage.py runserver`
-9. You should now be able to access the application by visiting: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+7. Start the server: `python chat.py`
+8. You should now be able to access the application by visiting: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 
 Don't forget to star this repository 🌟 if you find it useful!
