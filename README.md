@@ -23,7 +23,7 @@
 ## How to Run the Application
 
 1. Clone or download the project to your local machine.
-2. Change directory to the "online-shop-django" folder.
+2. Change directory to the "Flask-SocketIO-Chat" folder.
 3. Ensure that you have Python 3, pip, and virtualenv installed on your machine.
 4. Create a virtual environment using the following command:
    - For Mac and Linux: `python3 -m venv venv`
